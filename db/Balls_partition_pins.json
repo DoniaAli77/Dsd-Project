@@ -1,0 +1,205 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "leds[0]",
+					"strict" : false
+				},
+				{
+					"name" : "leds[1]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "timer0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "timer1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "counter_t2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "p1",
+					"strict" : false
+				},
+				{
+					"name" : "c1",
+					"strict" : false
+				},
+				{
+					"name" : "p2",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,29 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+ENTITY clk_generator IS 
+
+PORT(clk_50M:IN STD_LOGIC ;clk_1Hz:out STD_LOGIC);
+
+
+
+END clk_generator;
+
+ARCHITECTURE arc OF clk_generator IS 
+signal clockcounter :integer ;
+clk_1Hz_temp : STD_LOGIC ;
+begin 
+process(clk_50M)
+BEGIN
+if (clk_50M'EVENT AND CLK_50M='1')
+    if(clockcounter<50000000)
+	      then clockcounter=clockcounter+1;
+			
+	else 
+	       clockcounter<=0;
+			 clk_1Hz_temp<=not clk_1Hz_temp;
+	end if;
+end if;
+end process;
+clk_1Hz<=clk_1Hz_temp;	
+end arc ;
+	
